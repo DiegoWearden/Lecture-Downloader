@@ -1,4 +1,4 @@
-# Game Engine
+# Lecture Downloader and Transcriber
 
 ## Languages Used
 Java
